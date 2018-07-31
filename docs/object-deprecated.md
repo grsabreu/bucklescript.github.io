@@ -1,5 +1,5 @@
 ---
-title: Object 
+title: Object (old API)
 ---
 
 **Note**: this is the old API for binding to JS objects, kept for backward-compatibility. Please check the previous page for the current way of doing it.
